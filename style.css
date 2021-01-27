@@ -1,0 +1,26 @@
+.cert {
+    border: 1px solid black;
+    margin: 5px;
+    padding: 5px;
+}
+
+.cert h3 {
+    margin-top: 0;
+    margin-bottom: 3px;
+}
+
+.cert .exp {
+    color: #993333;
+}
+
+.cert .warn {
+    color: #BA3;
+}
+
+.cert div span {
+    margin-right: 22px;
+}
+
+.cert div a {
+    margin-right: 22px;
+}
